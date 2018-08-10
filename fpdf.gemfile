@@ -1,0 +1,12 @@
+Gem::Specification.new do |s|
+  s.name = %q{fpdf}
+  s.version = "1.54"
+  s.date = %q{2015-06-01}
+  s.authors = ["Jonathan Badger"]
+  s.email = %q{jhbadger@gmail.com}
+  s.summary = %q{fpdf}
+  s.homepage = %q{http://github.com/jhbadger/fpdf}
+  s.description = %q{fpdf pdf drawing}
+  s.files = ["lib/fpdf.rb", "lib/bookmark.rb", "lib/chinese.rb", "lib/fpdf_eps.rb", "lib/makefont.rb"]
+
+end
